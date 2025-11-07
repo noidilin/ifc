@@ -1,116 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   id="root"
-   version="1.1"
-   width="594.0mm"
-   height="420.0mm"
-   viewBox="0 0 594.0 420.0"
-   sodipodi:docname="A03 - WARDROBE.svg"
-   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs5" />
-  <sodipodi:namedview
-     id="namedview5"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     inkscape:zoom="0.88105359"
-     inkscape:cx="709.37796"
-     inkscape:cy="885.8712"
-     inkscape:window-width="3806"
-     inkscape:window-height="2020"
-     inkscape:window-x="6"
-     inkscape:window-y="497"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="root" />
-  <g
-     data-type="titleblock"
-     id="g1">
-    <image
-       xlink:href="titleblocks/A2.svg"
-       x="0"
-       y="0"
-       width="594.0"
-       height="420.0"
-       id="image1" />
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" id="root" version="1.1" width="594.0mm" height="420.0mm" viewBox="0 0 594.0 420.0" ns1:docname="A03 - WARDROBE.svg" ns2:version="1.4.2 (f4327f4, 2025-05-13)">
+  <defs id="defs5" />
+  <ns1:namedview id="namedview5" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" ns2:document-units="mm" ns2:zoom="0.88105359" ns2:cx="709.37796" ns2:cy="885.8712" ns2:window-width="3806" ns2:window-height="2020" ns2:window-x="6" ns2:window-y="497" ns2:window-maximized="0" ns2:current-layer="root" />
+  <g data-type="titleblock" id="g1">
+    <image xlink:href="titleblocks/A2.svg" x="0" y="0" width="594.0" height="420.0" id="image1" />
   </g>
-  <g
-     data-type="drawing"
-     data-id="24678"
-     data-drawing="1DIdVGlzb5BufU_EvNHdCB"
-     id="g3"
-     transform="translate(4.2042413,29.73003)">
-    <image
-       data-type="foreground"
-       xlink:href="..%5Cdrawings%5CWARDROBE%20SECTION%2001.svg"
-       x="27.544436"
-       y="30"
-       width="149.73544"
-       height="250"
-       id="image2" />
-    <image
-       data-type="view-title"
-       xlink:href="assets%5Cview-title.svg"
-       x="29.045952"
-       y="285"
-       width="50.222462"
-       height="10"
-       id="image3" />
+  <g data-type="drawing" data-id="24678" data-drawing="1DIdVGlzb5BufU_EvNHdCB" id="g3" transform="translate(4.2042413,29.73003)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CWARDROBE%20SECTION%2001.svg" x="27.549435999888242" y="30.0" width="149.73" height="250.0" id="image2" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="29.05095199988824" y="285.0" width="50.222462" height="10" id="image3" />
   </g>
-  <g
-     data-type="drawing"
-     data-id="24679"
-     data-drawing="0wKwVkmJPEJhC8jx3I68qz"
-     id="g5"
-     transform="translate(299.01265,29.73003)">
-    <image
-       data-type="foreground"
-       xlink:href="..%5Cdrawings%5CTOP%20WARDROBE.svg"
-       x="116.89992"
-       y="30"
-       width="149.73544"
-       height="250"
-       id="image4" />
-    <image
-       data-type="view-title"
-       xlink:href="assets%5Cview-title.svg"
-       x="116.89992"
-       y="285"
-       width="50.222462"
-       height="10"
-       id="image5" />
+  <g data-type="drawing" data-id="24679" data-drawing="0wKwVkmJPEJhC8jx3I68qz" id="g5" transform="translate(299.01265,29.73003)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CTOP%20WARDROBE.svg" x="116.90491999988824" y="30.0" width="149.73" height="250.0" id="image4" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="116.90491999988824" y="285.0" width="50.222462" height="10" id="image5" />
   </g>
-  <g
-     data-type="drawing"
-     data-id="26123"
-     data-drawing="1Gy8QLanv3nBGlRHOk2yBQ"
-     id="g7"
-     transform="translate(-85.286147,29.6504)">
-    <image
-       data-type="foreground"
-       xlink:href="..%5Cdrawings%5CWARDROBE%20SECTION%2002.svg"
-       x="286.78864"
-       y="30"
-       width="199.8645"
-       height="250"
-       id="image6" />
-    <image
-       data-type="view-title"
-       xlink:href="assets%5Cview-title.svg"
-       x="286.78864"
-       y="285.07962"
-       width="50.222462"
-       height="10"
-       id="image7" />
+  <g data-type="drawing" data-id="26123" data-drawing="1Gy8QLanv3nBGlRHOk2yBQ" id="g7" transform="translate(-85.286147,29.6504)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CWARDROBE%20SECTION%2002.svg" x="286.78864" y="30" width="199.8645" height="250" id="image6" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="286.78864" y="285.07962" width="50.222462" height="10" id="image7" />
   </g>
 </svg>
