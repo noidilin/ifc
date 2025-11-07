@@ -390,12 +390,6 @@ text.GRID, tspan.GRID { /* 5mm */ font-size: 8.25px; }
             <path d="M7.1415145478946442,195.0000067136337 L-0.35848586188728859,195.0000067136337"/>
             <path d="M7.1415145478951558,45.00000447845909 L7.1415145478946442,195.0000067136337"/>
         </g>
-        <g id="product-b7992ae1-e37e-4410-8119-a3d26ed1930e" class="IfcBeam material-null projection" ifc:name="Beam" ifc:guid="2tcIhXutv4484Pez9kqPCE">
-            <path d="M243.20364689695094,44.999947250708487 L243.20364933080106,57.500002243284712"/>
-            <path d="M243.20364981756893,60.000002317790518 L243.20365371170129,79.999947176201957"/>
-            <path d="M118.16967161081033,79.999971521213965 L243.20365371170129,79.999947176201957"/>
-            <path d="M243.20302972146595,44.999947250828683 L243.20364689695094,44.999947250708487"/>
-        </g>
         <g id="product-4692bdbe-2e82-43a1-98f2-0eea06b15119" class="IfcBeam material-null projection" ifc:name="Beam" ifc:guid="16ahs_Be93ePZo3ke6iL4P">
             <path d="M243.20302972145907,44.999912205028835 L243.20303215531624,57.500002243284683"/>
             <path d="M243.20303264208422,60.000002317790518 L243.20303556267459,74.999913844155984"/>
@@ -423,6 +417,11 @@ text.GRID, tspan.GRID { /* 5mm */ font-size: 8.25px; }
             <path d="M-247.81391877579981,57.499981132759331 L-197.81397370744185,57.499981132759331"/>
             <path d="M-247.81391877579981,59.999981207265137 L-197.81397370744185,59.999981207265137"/>
             <path d="M-247.81391877579981,59.999981207265137 L-247.81391877579981,57.499981132759331"/>
+        </g>
+        <g id="product-b7992ae1-e37e-4410-8119-a3d26ed1930e" class="IfcBeam material-null projection" ifc:name="Beam" ifc:guid="2tcIhXutv4484Pez9kqPCE">
+            <path d="M243.20364689695094,44.999947250708487 L243.20364933080106,57.500002243284712"/>
+            <path d="M243.20364981756893,60.000002317790518 L243.20365346832381,78.749980405252188"/>
+            <path d="M243.20302972146595,44.999947250828683 L243.20364689695094,44.999947250708487"/>
         </g>
         <g id="product-5bc5b228-c36e-4d3b-8c97-2114d5fb74b7" class="IfcSlab material-null projection" ifc:name="Slab" ifc:guid="1RnR8emsvDEuoN8HJL_tIt">
             <path d="M-197.79723185245911,195.00000686264531 L-197.79723185241406,205.00000701165695"/>
@@ -475,16 +474,6 @@ text.GRID, tspan.GRID { /* 5mm */ font-size: 8.25px; }
             <path d="M118.16967161081033,194.99999685234729 L118.16964571889258,194.99999685234729"/>
             <path d="M118.16967161081033,194.99999685234729 L118.16967161081033,74.999990295836696"/>
         </g>
-        <g id="product-17aa41a7-5838-4fc1-aabb-abc25276a1c2" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="0Nga6dM3XFmQgxgy9ITg72">
-            <path d="M7.1861014718607521,195.00000534611331 L7.1861014718607521,60.000002317790518"/>
-            <path d="M7.1861014718607521,57.500002243284712 L7.1861014718607521,45.000003110939559"/>
-            <path d="M7.1861014718607521,45.000003110939559 L-197.81397370744182,45.000003110939559"/>
-            <path d="M-197.81397370744185,195.00000534611331 L-197.81397370744185,45.000003110939559"/>
-            <path d="M-197.79723185245913,195.00000534611331 L-197.81397370744185,195.00000534611331"/>
-            <path d="M-140.06516547027519,90.00000854986321 L-140.06516547027516,195.00000534611331"/>
-            <path d="M-97.565163644882432,90.00000854986321 L-140.06516547027519,90.00000854986321"/>
-            <path d="M-97.565163644882432,195.00000534611331 L-97.565163644882432,90.00000854986321"/>
-        </g>
         <g id="product-d8a74eb9-9bc3-4324-aab7-764342880652" class="IfcWindow material-null projection" ifc:name="Window" ifc:guid="3OfqwvcyD39AgtTaD2Y0PI">
             <path d="M-124.55137856305885,169.49997947020262 L-140.06516547027516,169.49997947020213"/>
             <path d="M-124.55137856305885,90.000008549863239 L-124.55137856305885,169.49997947020262"/>
@@ -496,20 +485,6 @@ text.GRID, tspan.GRID { /* 5mm */ font-size: 8.25px; }
             <path d="M-122.80137852953176,171.24997950373026 L-122.80137852953176,90.00000854986321"/>
             <path d="M-97.565163644882432,171.249979503731 L-122.80137852953176,171.24997950373026"/>
             <path d="M-122.8013780427638,171.24997940935788 L-122.8013780427638,172.49997944661078"/>
-        </g>
-        <g id="product-6401a6ec-7466-40da-a1f3-a23109132725" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="1a0QRiT6P0sg7peZ494oSb">
-            <path d="M7.1861014718607521,74.999989163368099 L99.169542430097408,74.999989163369136"/>
-            <path d="M100.16956649745748,74.999989163369136 L113.16964564438842,74.999989163369293"/>
-            <path d="M48.169876231040291,194.99999571987917 L99.169539791654017,194.99999571987973"/>
-            <path d="M100.1695659891364,194.99999571987973 L113.16964564438672,194.99999571987991"/>
-            <path d="M7.1861014718607521,194.99999571987868 L10.669875672247201,194.99999571987874"/>
-        </g>
-        <g id="product-88c897b4-6667-4a32-bbf9-1eadba6fc7a7" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="28o9UqPcTAChlv7gswRyUd">
-            <path d="M-140.06516547027516,172.49997963535537 L-97.565163644882432,172.49997963535586"/>
-            <path d="M-155.05211585266693,44.999989748164381 L-155.05211585266693,44.999977139411044"/>
-            <path d="M-90.294603017696602,44.999977139411783 L-155.05211585266693,44.999977139411044"/>
-            <path d="M-97.565163644882404,194.99997937458545 L-140.06516547027519,194.99997937458497"/>
-            <path d="M82.198644900049203,74.999989163368951 L82.198644900049203,74.999945192866548"/>
         </g>
         <g id="product-6554898c-cb4d-4823-82ad-f917f797fd04" class="IfcFurniture material-null projection" ifc:name="Furniture" ifc:guid="1bL8cCoqr88uAj_HVtb$q4">
             <path d="M47.669578033493849,82.999994631084547 L99.169540117491181,82.999994631084476"/>
@@ -566,8 +541,47 @@ text.GRID, tspan.GRID { /* 5mm */ font-size: 8.25px; }
             <path d="M113.16964564438842,75.000001579013826 L113.1695537053194,75.000003160489655"/>
             <path d="M113.16964564438842,76.250006366011874 L113.1695537053194,76.250007947487688"/>
         </g>
+        <g id="product-6401a6ec-7466-40da-a1f3-a23109132725" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="1a0QRiT6P0sg7peZ494oSb">
+            <path d="M7.1861014718607521,74.999989163368099 L99.169542430097408,74.999989163369136"/>
+            <path d="M100.16956649745748,74.999989163369136 L113.16964564438842,74.999989163369293"/>
+            <path d="M48.169876231040291,194.99999571987917 L99.169539791654017,194.99999571987973"/>
+            <path d="M100.1695659891364,194.99999571987973 L113.16964564438672,194.99999571987991"/>
+            <path d="M7.1861014718607521,194.99999571987868 L10.669875672247201,194.99999571987874"/>
+        </g>
+        <g id="product-17aa41a7-5838-4fc1-aabb-abc25276a1c2" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="0Nga6dM3XFmQgxgy9ITg72">
+            <path d="M7.1861014718607521,195.00000534611331 L7.1861014718607521,60.000002317790518"/>
+            <path d="M7.1861014718607521,57.500002243284712 L7.1861014718607521,45.000003110939559"/>
+            <path d="M7.1861014718607521,45.000003110939559 L-197.81397370744182,45.000003110939559"/>
+            <path d="M-197.81397370744185,195.00000534611331 L-197.81397370744185,45.000003110939559"/>
+            <path d="M-197.79723185245913,195.00000534611331 L-197.81397370744185,195.00000534611331"/>
+            <path d="M-140.06516547027519,90.00000854986321 L-140.06516547027516,195.00000534611331"/>
+            <path d="M-97.565163644882432,90.00000854986321 L-140.06516547027519,90.00000854986321"/>
+            <path d="M-97.565163644882432,195.00000534611331 L-97.565163644882432,90.00000854986321"/>
+        </g>
+        <g id="product-c45ad142-811e-452d-a02e-8e088bef274b" class="IfcFurniture material-null projection" ifc:name="Furniture" ifc:guid="34Mj52WHv5BQ0kZWYBxoTB">
+            <path d="M118.16967161081033,79.999981717152139 L243.20374009885558,79.999981717152139"/>
+            <path d="M118.16967161081033,78.749981726465435 L243.20374009885558,78.749981726465435"/>
+            <path d="M243.20374009885558,78.749981726465435 L243.20374009885558,79.999981717152139"/>
+            <path d="M243.20374009885558,78.749980405252217 L243.20374009885558,78.749981726465435"/>
+            <path d="M243.20374009885558,78.749980405252217 L243.20374009885558,78.749981726465435"/>
+        </g>
+        <g id="product-08c2e4a4-54f7-4a7d-a48b-7f4e0a768645" class="IfcFurniture material-null projection" ifc:name="Furniture" ifc:guid="08mkIaLFTAVQIBVquATeP5">
+            <path d="M202.69794480708669,188.99999063074156 L118.16967161081033,188.99999063074128"/>
+            <path d="M202.69794480708669,186.49999036997127 L202.69794480708669,188.99999063074156"/>
+            <path d="M118.16967161081033,186.49999036997099 L202.69794480708669,186.49999036997127"/>
+            <path d="M202.69794878482321,186.49998349966194 L202.69794480708669,186.49999036997127"/>
+            <path d="M202.69794878482321,186.49999036997127 L202.69794878482321,186.49998349966194"/>
+            <path d="M118.16967161081033,186.49998349966168 L202.69794878482321,186.49998349966194"/>
+        </g>
+        <g id="product-88c897b4-6667-4a32-bbf9-1eadba6fc7a7" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="28o9UqPcTAChlv7gswRyUd">
+            <path d="M-140.06516547027516,172.49997963535537 L-97.565163644882432,172.49997963535586"/>
+            <path d="M-155.05211585266693,44.999989748164381 L-155.05211585266693,44.999977139411044"/>
+            <path d="M-90.294603017696602,44.999977139411783 L-155.05211585266693,44.999977139411044"/>
+            <path d="M-97.565163644882404,194.99997937458545 L-140.06516547027519,194.99997937458497"/>
+            <path d="M82.198644900049203,74.999989163368951 L82.198644900049203,74.999945192866548"/>
+        </g>
         <g id="product-8b3bed01-682a-46b2-abcd-f036adb996d5" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="2BE_q1Q2f6iglDy3QjkPRL">
-            <path d="M243.19839886693376,194.99997541091091 L243.19839886693376,79.99994717722511"/>
+            <path d="M243.19839886693376,194.99997541091091 L243.19839886693376,79.999981717152195"/>
             <path d="M162.72289511717179,84.999971387596943 L118.16967161081033,84.999971387596617"/>
             <path d="M162.72289040844396,82.999973265143609 L162.72289511717179,84.999971387596943"/>
             <path d="M242.72289279264123,82.999973265144163 L162.72289040844396,82.999973265143609"/>
@@ -576,42 +590,24 @@ text.GRID, tspan.GRID { /* 5mm */ font-size: 8.25px; }
         </g>
     <g ifc:guid="1bL8cCoqr88uAj_HVtb$q4" ifc:name="Furniture" class="IfcFurniture material-null cut"><path d="M91.90835565086303,76.25001072883606 L113.16954701896607,76.25001072883606 L113.16954701896607,76.1811912059784 L113.16954701896607,75.00000596046448 L91.90835565086303,75.00000596046448 L90.66955655570922,75.00000596046448 L90.66955655570922,75.06882548332214 L90.66955655570922,76.25001072883606 Z"/></g><g ifc:guid="0Sld9vx4P2$R5kUfUN9dlg" ifc:name="Dressing" class="IfcSpace material-null cut"><path d="M113.18494885917603,44.999998807907104 L84.06881898399291,44.999998807907104 L7.148691115340567,44.999998807907104 L7.134958205184317,44.999998807907104 L7.134958205184317,153.7979543209076 L7.134958205184317,194.9999988079071 L7.148691115340567,194.9999988079071 L84.06886666770873,194.9999988079071 L113.18494885917603,194.9999988079071 L113.18494885917603,51.754432916641235 Z"/></g><g class="cut material-null IfcWall 1fkolu7EfA087KzDnWqfko"><path d="M3.822,45.0 L-0.358,45.0 L-0.358,128.612 L-0.358,195.0 L2.961,195.0 L7.142,195.0 L7.142,111.388 L7.142,45.0 Z"/></g><g class="1RnR8emsvDEuoN8HJL_tIt material-null 2VNlUEJBn48vD2lNgfOBWw cut IfcSlab"><path d="M26.834,57.5 L13.796,57.5 L-197.797,57.5 L-197.797,59.517 L-197.797,60.0 L13.796,60.0 L26.834,60.0 L51.222,60.0 L244.084,60.0 L250.703,60.0 L250.703,57.65 L250.703,57.5 L244.084,57.5 L51.222,57.5 Z"/></g><g class="1RnR8emsvDEuoN8HJL_tIt material-null 2VNlUEJBn48vD2lNgfOBWw cut IfcSlab"><path d="M26.834,195.0 L13.796,195.0 L-197.797,195.0 L-197.797,203.069 L-197.797,205.0 L13.796,205.0 L26.834,205.0 L51.222,205.0 L244.084,205.0 L250.703,205.0 L250.703,195.599 L250.703,195.0 L244.084,195.0 L51.222,195.0 Z"/></g><g class="cut material-null IfcWall 21yWoYaG5FqQn8_Km66n9L"><path d="M118.17,45.0 L117.919,45.0 L113.17,45.0 L113.17,187.492 L113.17,195.0 L113.42,195.0 L118.17,195.0 L118.17,52.508 Z"/></g><g class="1fkolu7EfA087KzDnWqfko material-null layer-material-Unknown IfcWall IfcMaterialLayer cut"><path d="M3.822,45.0 L-0.358,45.0 L-0.358,128.612 L-0.358,195.0 L2.961,195.0 L7.142,195.0 L7.142,111.388 L7.142,45.0 Z"/></g><g class="1RnR8emsvDEuoN8HJL_tIt material-null layer-material-Unknown 2VNlUEJBn48vD2lNgfOBWw IfcMaterialLayer cut IfcSlab"><path d="M26.834,57.5 L13.796,57.5 L-197.797,57.5 L-197.797,59.517 L-197.797,60.0 L13.796,60.0 L26.834,60.0 L51.222,60.0 L244.084,60.0 L250.703,60.0 L250.703,57.65 L250.703,57.5 L244.084,57.5 L51.222,57.5 Z"/></g><g class="1RnR8emsvDEuoN8HJL_tIt material-null layer-material-Unknown 2VNlUEJBn48vD2lNgfOBWw IfcMaterialLayer cut IfcSlab"><path d="M26.834,195.0 L13.796,195.0 L-197.797,195.0 L-197.797,203.069 L-197.797,205.0 L13.796,205.0 L26.834,205.0 L51.222,205.0 L244.084,205.0 L250.703,205.0 L250.703,195.599 L250.703,195.0 L244.084,195.0 L51.222,195.0 Z"/></g><g class="material-null 21yWoYaG5FqQn8_Km66n9L layer-material-Unknown IfcWall IfcMaterialLayer cut"><path d="M118.17,45.0 L117.919,45.0 L113.17,45.0 L113.17,187.492 L113.17,195.0 L113.42,195.0 L118.17,195.0 L118.17,52.508 Z"/></g><path d="M113.18494885917603,44.999998807907104 L84.06881898399291,44.999998807907104 L7.148691115340567,44.999998807907104 L7.134958205184317,44.999998807907104 L7.134958205184317,153.7979543209076 L7.134958205184317,194.9999988079071 L7.148691115340567,194.9999988079071 L84.06886666770873,194.9999988079071 L113.18494885917603,194.9999988079071 L113.18494885917603,51.754432916641235 Z" class="IfcSpace material-null"/></g>
   <defs/>
-  <line class="GlobalId-02wZEKXMD72hmwJzX4Vd9E IfcAnnotation PredefinedType-SECTION" x1="232.11631774902344" x2="232.11631774902344" y1="250.0" y2="-1.1920928955078125e-05"/>
-  <use transform="rotate(-90.00000250447816, 232.11631774902344, 250.0)" x="232.11631774902344" xlink:href="#section-arrow" y="250.0"/>
-  <use x="232.11631774902344" xlink:href="#section-tag" y="250.0"/>
-  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="232.11631774902344" y="247.5">-</text>
-  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="232.11631774902344" y="252.5">-</text>
-  <use transform="rotate(-90.00000250447816, 232.11631774902344, -1.1920928955078125e-05)" x="232.11631774902344" xlink:href="#section-arrow" y="-1.1920928955078125e-05"/>
-  <use x="232.11631774902344" xlink:href="#section-tag" y="-1.1920928955078125e-05"/>
-  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="232.11631774902344" y="-2.500011920928955">-</text>
-  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="232.11631774902344" y="2.499988079071045">-</text>
-  <line class="GlobalId-3MyOrEMPPD8vTylWCY9NTN IfcAnnotation PredefinedType-GRID" stroke-dasharray="12.5, 3, 3, 3" x1="7.178994178771973" x2="7.178994178771973" y1="230.0" y2="19.99999237060547"/>
-  <text class="GRID" dominant-baseline="middle" text-anchor="middle" x="7.178994178771973" y="230.0">03</text>
-  <text class="GRID" dominant-baseline="middle" text-anchor="middle" x="7.178994178771973" y="19.99999237060547">03</text>
-  <line class="GlobalId-0MvUhABhD3eu0JzAaVijAy IfcAnnotation PredefinedType-GRID" stroke-dasharray="12.5, 3, 3, 3" x1="89.69795227050781" x2="89.69795227050781" y1="230.0" y2="19.99999237060547"/>
-  <text class="GRID" dominant-baseline="middle" text-anchor="middle" x="89.69795227050781" y="230.0">04</text>
-  <text class="GRID" dominant-baseline="middle" text-anchor="middle" x="89.69795227050781" y="19.99999237060547">04</text>
-  <line class="GlobalId-1aD5x8V9zARxDLwRGGqohO IfcAnnotation PredefinedType-GRID" stroke-dasharray="12.5, 3, 3, 3" x1="-190.31390380859375" x2="-190.31390380859375" y1="230.0" y2="19.99999237060547"/>
-  <text class="GRID" dominant-baseline="middle" text-anchor="middle" x="-190.31390380859375" y="230.0">01</text>
-  <text class="GRID" dominant-baseline="middle" text-anchor="middle" x="-190.31390380859375" y="19.99999237060547">01</text>
   <line class="GlobalId-3AzPA5QZL8bOZGsZ1Q$1Sb IfcAnnotation PredefinedType-GRID" stroke-dasharray="12.5, 3, 3, 3" x1="243.19839477539062" x2="243.19839477539062" y1="230.0" y2="19.99999237060547"/>
   <text class="GRID" dominant-baseline="middle" text-anchor="middle" x="243.19839477539062" y="230.0">05</text>
   <text class="GRID" dominant-baseline="middle" text-anchor="middle" x="243.19839477539062" y="19.99999237060547">05</text>
-  <line class="GlobalId-14CijphqfCTPEMWCHT7F8A IfcAnnotation PredefinedType-SECTION" x1="50.84797668457031" x2="50.84797668457031" y1="-1.1920928955078125e-05" y2="250.0"/>
-  <use transform="rotate(90.00000250447816, 50.84797668457031, -1.1920928955078125e-05)" x="50.84797668457031" xlink:href="#section-arrow" y="-1.1920928955078125e-05"/>
-  <use x="50.84797668457031" xlink:href="#section-tag" y="-1.1920928955078125e-05"/>
-  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="50.84797668457031" y="-2.500011920928955">-</text>
-  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="50.84797668457031" y="2.499988079071045">-</text>
-  <use transform="rotate(90.00000250447816, 50.84797668457031, 250.0)" x="50.84797668457031" xlink:href="#section-arrow" y="250.0"/>
-  <use x="50.84797668457031" xlink:href="#section-tag" y="250.0"/>
-  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="50.84797668457031" y="247.5">-</text>
-  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="50.84797668457031" y="252.5">-</text>
   <path class="GlobalId-2reIhRfn5B7RM0JDq6qvEI IfcAnnotation PredefinedType-SECTIONLEVEL" d="M 341.71490478515625 195.0 L -247.8139190673828 195.0"/>
   <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(341.71490478515625, 191.5) rotate(0.0)">
     <tspan class="SECTIONLEVEL" dy="-1em" x="0" y="0">12FA3</tspan>
     <tspan class="SECTIONLEVEL" dy="0em" x="0" y="0">RL -0.000</tspan>
   </text>
+  <line class="GlobalId-0MvUhABhD3eu0JzAaVijAy IfcAnnotation PredefinedType-GRID" stroke-dasharray="12.5, 3, 3, 3" x1="89.69795227050781" x2="89.69795227050781" y1="230.0" y2="19.99999237060547"/>
+  <text class="GRID" dominant-baseline="middle" text-anchor="middle" x="89.69795227050781" y="230.0">04</text>
+  <text class="GRID" dominant-baseline="middle" text-anchor="middle" x="89.69795227050781" y="19.99999237060547">04</text>
   <line class="GlobalId-1dj8a8Y$9E4h7HFwEilZ2v IfcAnnotation PredefinedType-GRID" stroke-dasharray="12.5, 3, 3, 3" x1="-72.81344604492188" x2="-72.81344604492188" y1="230.0" y2="19.99999237060547"/>
   <text class="GRID" dominant-baseline="middle" text-anchor="middle" x="-72.81344604492188" y="230.0">02</text>
   <text class="GRID" dominant-baseline="middle" text-anchor="middle" x="-72.81344604492188" y="19.99999237060547">02</text>
+  <line class="GlobalId-3MyOrEMPPD8vTylWCY9NTN IfcAnnotation PredefinedType-GRID" stroke-dasharray="12.5, 3, 3, 3" x1="7.178994178771973" x2="7.178994178771973" y1="230.0" y2="19.99999237060547"/>
+  <text class="GRID" dominant-baseline="middle" text-anchor="middle" x="7.178994178771973" y="230.0">03</text>
+  <text class="GRID" dominant-baseline="middle" text-anchor="middle" x="7.178994178771973" y="19.99999237060547">03</text>
+  <line class="GlobalId-1aD5x8V9zARxDLwRGGqohO IfcAnnotation PredefinedType-GRID" stroke-dasharray="12.5, 3, 3, 3" x1="-190.31390380859375" x2="-190.31390380859375" y1="230.0" y2="19.99999237060547"/>
+  <text class="GRID" dominant-baseline="middle" text-anchor="middle" x="-190.31390380859375" y="230.0">01</text>
+  <text class="GRID" dominant-baseline="middle" text-anchor="middle" x="-190.31390380859375" y="19.99999237060547">01</text>
 </svg>
