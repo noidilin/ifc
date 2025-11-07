@@ -1,5 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="root" version="1.1" width="594.0mm" height="420.0mm" viewBox="0 0 594.0 420.0">
-    <g data-type="titleblock">
-        <image xlink:href="titleblocks/A2.svg" x="0" y="0" width="594.0" height="420.0" />
-    </g>
-<g data-type="drawing" data-id="24678" data-drawing="1DIdVGlzb5BufU_EvNHdCB"><image data-type="foreground" xlink:href="..\drawings\WARDROBE SECTION.svg" x="30.0" y="30.0" width="116.869918699187" height="250.0" /><image data-type="view-title" xlink:href="assets\view-title.svg" x="30.0" y="285.0" width="50.222462" height="10.0" /></g><g data-type="drawing" data-id="24679" data-drawing="0wKwVkmJPEJhC8jx3I68qz"><image data-type="foreground" xlink:href="..\drawings\TOP WARDROBE.svg" x="156.869918699187" y="30.0" width="119.91869918699187" height="250.0" /><image data-type="view-title" xlink:href="assets\view-title.svg" x="156.869918699187" y="285.0" width="50.222462" height="10.0" /></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" id="root" version="1.1" width="594.0mm" height="420.0mm" viewBox="0 0 594.0 420.0" ns1:docname="A03 - WARDROBE.svg" ns2:version="1.4.2 (f4327f4, 2025-05-13)">
+  <defs id="defs5" />
+  <ns1:namedview id="namedview5" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" ns2:document-units="mm" ns2:zoom="0.88105359" ns2:cx="1122.5197" ns2:cy="793.93581" ns2:window-width="3806" ns2:window-height="2020" ns2:window-x="6" ns2:window-y="497" ns2:window-maximized="0" ns2:current-layer="root" />
+  <g data-type="titleblock" id="g1">
+    <image xlink:href="titleblocks/A2.svg" x="0" y="0" width="594.0" height="420.0" id="image1" />
+  </g>
+  <g data-type="drawing" data-id="24678" data-drawing="1DIdVGlzb5BufU_EvNHdCB" id="g3" transform="translate(146.24772,29.73003)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CWARDROBE%20SECTION.svg" x="30" y="30" width="116.86992" height="250" id="image2" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="30" y="285" width="50.222462" height="10" id="image3" />
+  </g>
+  <g data-type="drawing" data-id="24679" data-drawing="0wKwVkmJPEJhC8jx3I68qz" id="g5" transform="translate(146.24772,29.73003)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CTOP%20WARDROBE.svg" x="156.86992" y="30" width="119.9187" height="250" id="image4" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="156.86992" y="285" width="50.222462" height="10" id="image5" />
+  </g>
+</svg>

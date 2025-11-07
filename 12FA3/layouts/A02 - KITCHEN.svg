@@ -1,5 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="root" version="1.1" width="594.0mm" height="420.0mm" viewBox="0 0 594.0 420.0">
-    <g data-type="titleblock">
-        <image xlink:href="titleblocks/A2.svg" x="0" y="0" width="594.0" height="420.0" />
-    </g>
-<g data-type="drawing" data-id="24672" data-drawing="2_qn3i5g1DxgSfy2dWbjSk"><image data-type="foreground" xlink:href="..\drawings\KITCHEN SECTION.svg" x="30.0" y="30.0" width="350.0" height="250.04840271055178" /><image data-type="view-title" xlink:href="assets\view-title.svg" x="30.0" y="285.0484027105518" width="50.222462" height="10.0" /></g><g data-type="drawing" data-id="24673" data-drawing="2ZXj7iu9TANRbwP9CmezKF"><image data-type="foreground" xlink:href="..\drawings\TOP KITCHEN.svg" x="30.0" y="305.0484027105518" width="350.0" height="49.806389157792836" /><image data-type="view-title" xlink:href="assets\view-title.svg" x="30.0" y="359.8547918683446" width="50.222462" height="10.0" /></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" id="root" version="1.1" width="594.0mm" height="420.0mm" viewBox="0 0 594.0 420.0" ns1:docname="A02 - KITCHEN.svg" ns2:version="1.4.2 (f4327f4, 2025-05-13)">
+  <defs id="defs5" />
+  <ns1:namedview id="namedview5" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" ns2:document-units="mm" ns2:zoom="1.1557534" ns2:cx="876.48457" ns2:cy="812.88969" ns2:window-width="3806" ns2:window-height="2020" ns2:window-x="6" ns2:window-y="497" ns2:window-maximized="0" ns2:current-layer="root" />
+  <g data-type="titleblock" id="g1" ns1:insensitive="true">
+    <image xlink:href="titleblocks/A2.svg" x="0" y="0" width="594" height="420" id="image1" />
+  </g>
+  <g data-type="drawing" data-id="24672" data-drawing="2_qn3i5g1DxgSfy2dWbjSk" id="g3" transform="translate(85.146747,2.3150713)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CKITCHEN%20SECTION.svg" x="30" y="30" width="350" height="250.0484" id="image2" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="397.78214" y="222.24054" width="50.222462" height="10" id="image3" />
+  </g>
+  <g data-type="drawing" data-id="24728" data-drawing="2ZXj7iu9TANRbwP9CmezKF" id="g5">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CTOP%20KITCHEN.svg" x="115.14674" y="285.24094" width="350" height="49.806389" id="image4" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="482.92889" y="333.1795" width="50.222462" height="10" id="image5" />
+  </g>
+</svg>
